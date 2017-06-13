@@ -1,1 +1,4 @@
 .DS_Store
+
+dist/
+unoconv.egg-info/
